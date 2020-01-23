@@ -6,7 +6,7 @@ And from the top exactly the other way.
 
 # Components 
 - PIR sensors
-- Arduino and the IDE : https://www.arduino.cc/en/Main/Software 
+- Arduino and the [IDE](https://www.arduino.cc/en/Main/Software) 
 - Brightness sensor
 - WS2812b LED strips
 - LED Profil
@@ -19,7 +19,9 @@ And from the top exactly the other way.
 - Only active when approaching
 
 # How to
-Download the file <br>
-load in the Arduino IDE <br>
-Change pin assignment if it is arranged differently <br>
-Ready to go
+``` Ruby
+Download the file
+load file
+Change pin assignment if it is differently
+upload to your arduino
+
